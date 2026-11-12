@@ -7,14 +7,23 @@ cvbbbc
 ### Section			   	      : Cesium
 ### Group Members			    : DEUNA, MAMFORTE, PERALTA
 ### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+###
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+- This project aims to make a simple template for supermarkets to use to manage their items conveniently. Its features are returning item names, brands, and prices through a barcode. It also adds and removes items if the user demands to, or if an item phases out of the market (realistically).
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
-- Include the description as well of your target demographics as the user of your application. 
+- class Product
+- attributes: name, brand, price, barcode
+- methods: return name, brand, price
+- interaction: if there's a duplicate barcode in different items, then it'll return a error message regarding duplicates
+- some features: view an item's name, brand, and price and inputting and removing objects
+
+- Include the description as well of your target demographics as the user of your application.
+
+- description of a typical user: store managers needing to organize the store's products quickly and efficiently.
+  may also be used by cashiers to determine prices of products in the supermarket through barcodes 
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
