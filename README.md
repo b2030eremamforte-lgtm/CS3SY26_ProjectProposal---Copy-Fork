@@ -35,7 +35,7 @@ cvbbbc
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
+- Objective 1: Help making manage products more easier and efficient for supermarkets
 - Objective 2:
 - Objective n:
 
