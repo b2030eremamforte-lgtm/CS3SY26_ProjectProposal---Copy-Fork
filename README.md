@@ -32,7 +32,7 @@ cvbbbc
 
 ### Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+The long term goal of this project is to help provide help to supermarkets and local stores with a reliable and user-friendly inventory management template. Our project aims to stop the manual pricing errors and to help enhance the overall efficiency and speed of inventory management.
 
 - Objective 1: Help making manage products more easier and efficient for supermarkets.
 - Objective 2: Develop a quick and reliable barcode search mechanism to help cashiers and store managers to accurately get an item's components.
