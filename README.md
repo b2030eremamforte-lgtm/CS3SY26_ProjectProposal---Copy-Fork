@@ -6,7 +6,7 @@ cvbbbc
 ### Project Title or Name of the Application	: Enhanced Inventory Manager
 ### Section			   	      : Cesium
 ### Group Members			    : DEUNA, MAMFORTE, PERALTA
-### Date (Proposal Date)  : Nov 5, 2026
+### Date (Proposal Date)  : Nov 13, 2026
 ###
 ### Project Description:
 
