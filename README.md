@@ -27,7 +27,8 @@ cvbbbc
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-[Uploading Product +name +brand +price +.pdf…]()
+[Product +name +brand +price +.pdf](https://github.com/user-attachments/files/34793867/Product.%2Bname.%2Bbrand.%2Bprice.%2B.pdf)
+
 
 
 ### Goals:
