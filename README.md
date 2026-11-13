@@ -27,9 +27,8 @@ cvbbbc
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
+[Uploading Product +name +brand +price +.pdf…]()
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
 ### Goals:
 
