@@ -35,8 +35,8 @@ cvbbbc
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1: Help making manage products more easier and efficient for supermarkets
-- Objective 2:
-- Objective n:
+- Objective 1: Help making manage products more easier and efficient for supermarkets.
+- Objective 2: Develop a quick and reliable barcode search mechanism to help cashiers and store managers to accurately get an item's components.
+- Objective 3: 
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
